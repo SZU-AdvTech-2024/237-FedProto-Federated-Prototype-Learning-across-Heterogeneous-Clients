@@ -1,0 +1,13 @@
+@article{REPO237,
+    author = "Tan, Yue and Long, Guodong and LIU, LU and Zhou, Tianyi and Lu, Qinghua and Jiang, Jing and Zhang, Chengqi",
+    abstractnote = "Heterogeneity across clients in federated learning (FL) usually hinders the optimization convergence and generalization performance when the aggregation of clients’ knowledge occurs in the gradient space. For example, clients may differ in terms of data distribution, network latency, input/output space, and/or model architecture, which can easily lead to the misalignment of their local gradients. To improve the tolerance to heterogeneity, we propose a novel federated prototype learning (FedProto) framework in which the clients and server communicate the abstract class prototypes instead of the gradients. FedProto aggregates the local prototypes collected from different clients, and then sends the global prototypes back to all clients to regularize the training of local models. The training on each client aims to minimize the classification error on the local data while keeping the resulting local prototypes sufficiently close to the corresponding global ones. Moreover, we provide a theoretical analysis to the convergence rate of FedProto under non-convex objectives. In experiments, we propose a benchmark setting tailored for heterogeneous FL, with FedProto outperforming several recent FL approaches on multiple datasets.",
+    doi = "10.1609/aaai.v36i8.20819",
+    journal = "Proceedings of the AAAI Conference on Artificial Intelligence",
+    month = "Jun.",
+    number = "8",
+    pages = "8432-8440",
+    title = "{FedProto: Federated Prototype Learning across Heterogeneous Clients}",
+    url = "https://ojs.aaai.org/index.php/AAAI/article/view/20819",
+    volume = "36",
+    year = "2022"
+}
