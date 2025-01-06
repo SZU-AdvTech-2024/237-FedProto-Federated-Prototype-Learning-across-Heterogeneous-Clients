@@ -1,12 +1,10 @@
 @article{REPO237,
     author = "Tan, Yue and Long, Guodong and LIU, LU and Zhou, Tianyi and Lu, Qinghua and Jiang, Jing and Zhang, Chengqi",
-    doi = "10.1609/aaai.v36i8.20819",
     journal = "Proceedings of the AAAI Conference on Artificial Intelligence",
     month = "Jun.",
     number = "8",
     pages = "8432-8440",
     title = "{FedProto: Federated Prototype Learning across Heterogeneous Clients}",
-    url = "https://ojs.aaai.org/index.php/AAAI/article/view/20819",
     volume = "36",
     year = "2022"
 }
